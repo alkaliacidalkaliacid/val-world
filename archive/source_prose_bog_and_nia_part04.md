@@ -1,0 +1,325 @@
+# THE ASHEN DOMINION: Bog & Nia
+## Side Story — "The Burrow" (Sonya's Taming, Bog Away)
+
+---
+
+## Prologue: Ten Insults
+
+1. "Ты, зелёный огурец ♥ переросший, ты слышишь меня? ♥ Когда я выйду отсюда, я сделаю из твоих клыков бусы ♥ и повешу на твою же шею!"
+
+2. "Урод. ♥ Ублюдок. ♥ Козёл. ♥ Это не комплименты, Bog, перестань кивать! ♥ Почему оно записывает?!"
+
+3. "Эй, ты, тентакль, убери свою... нет, не туда! ♥ Я сказала не туда, идиот железный! ♥ Скажи своему командиру, что он дурак ♥ и что у него мозги как у варёной картошки!"
+
+4. "Bog, ты слышишь? ♥ Ты Val из консервной банки, ♥ тупой, ленивый, ♥ ходячий мешок с зелёной грязью! ♥ ...Почему мне так тепло? Это тоже ты?!"
+
+5. "Эти щупальца всё время холодные ♥ и скользкие, ♥ а потом вдруг тёплые! ♥ Определись уже, железяка! ♥ Я требую, чтобы ты определился!"
+
+6. "Свинья. ♥ Скотина. ♥ Чёртов зелёный сапог. ♥ Ты думаешь, я забуду твоё лицо? ♥ Я его высеку на твоей же могиле, ♥ крупными буквами, на двух языках!"
+
+7. "Пусть твои предки сгниют в своих пробирках, ♥ Bog! ♥ И твой сержантский значок ♥ тоже пусть сгниёт! ♥ ...Нет, не щекочи! ♥ Не смей! ♥ Я не смеюсь, это рефлекс!"
+
+8. "Ненавижу. ♥ Ненавижу. ♥ Ненавижу тебя, ♥ твою ухмылку, твой жетпак ♥ и твою дурацкую вежливость! ♥ Сколько слов уже в твоём журнале, а? ♥ Добавь ещё одно: сволочь!"
+
+9. "Слушай, зелёный, ♥ я нашла твоё слабое место: ты глупый. ♥ Всё. Больше ничего нет. ♥ Совсем. ♥ ...Эй, монстр, ты не мог бы убавить вибрацию на этих колокольчиках? ♥ Они звенят ♥ прямо в голове!"
+
+10. "Не сдамся ♥ слышишь, Bog, не сдамся! ♥ Ни за что ♥ не... ♥ Дурак. Мерзавец. ♥ Скажи этой верёвочной гадости, чтобы отпустила мои ноги! ♥ Я вежливо прошу! ♥ ...Это была не просьба, это был приказ!"
+
+---
+
+## Chapter 1: Secondary
+
+**Tentacle Monster:** Commander Bog is not here; he has gone to Appalachia to rescue Nia Okonkwo—his future primary consort—and free her from her collar.
+
+**Sonya:** Этот зелёный ублюдок надел ошейник *на меня*, а теперь собирается освободить эту ЧЁРТОВУ чернокожую американскую супергероиню от её ошейника? Ты шутишь?
+
+**Tentacle Monster:** For Commander Bog, Nia Okonkwo is the top priority right now—that's just how it is. As for you, Sophia Ivanova, if you put in the effort and train hard enough to be capable of bearing his hybrids, there's a chance you could become his secondary consort. So, give it your best. I'll help you out, too. Now, I shall continue with the internal expansion and adjustments.
+
+The burrow was quiet for four seconds. By the monster's log, that was a record.
+
+"Secondary," Sonya said at last. Her voice was low and level, the way it had been in her FSB days, which would have worried anyone who didn't know she was bound by a dozen cables and wearing a bell on each nipple. "*Вторая.* Second. I have been ranked behind a woman in a bunny costume."
+
+"Correct," said the monster. "Please note that 'secondary consort' is a position of honor in Val custom."
+
+"Не сдамся," she hissed, but it came out thin. Then the fresh grievance caught up with her. "Hold on. He put this thing on my neck ♥ and he flew off to *rescue* her? ♥ Is that what you're telling me? ♥ He packed a jetpack ♥ for *her*?"
+
+"Commander Bog's exact words were 'Take care of the Russian.' The jetpack was not discussed."
+
+"Ублюдок. ♥ Зелёный, тупой, ♥ *вежливый* ублюдок! ♥" A tentacle shifted under her ribs, cool and slick, and she jerked. "I didn't say you could touch me! ♥ Did I ask for that? Убери! ♥ Warm it up, you rusty... no, not *that* warm! ♥ Make up your mind!"
+
+"Please define 'warm.'"
+
+"Ты издеваешься?!" Her heel drummed against a cable. "Warm! Like a person! Like a *blanket!* Not like a... a soup!"
+
+"Adjusting," said the monster. The tentacle's temperature slid down two degrees, and Sonya's breath hitched in a way she would have denied under oath.
+
+"Log that as nothing," she snapped. "It was a cough."
+
+"Logged as 'cough.' Vocabulary count: three hundred and sixteen."
+
+"Four new words? When did I..." She stopped. She began running the list in her head, and her ears went pink. "Ah. *Yes.* Fine. Write down the one about his mother. Write it twice. Write it in capital letters!"
+
+"Duplicate entries are not recorded."
+
+"Then he should have a better mother!" she shouted at the ceiling, which was also the monster. "And *she* should..." The breath went out of her mid-sentence. "...she's strong, you know. Huntress. I've watched her fight. The collar won't hold her long, with that doctor, and then she'll stand next to him, ♥ with her family and her ♥ stupid thyme pot, and I'll be down here ♥ learning how to *bear hybrids*, ♥ like a... like a..."
+
+"Like a candidate for secondary consort," the monster offered. "I will help. Training begins in nine minutes. The curriculum is extensive."
+
+"Я тебя убью. ♥ Слышишь? ♥ I will find your core. ♥ Everything has a core."
+
+"Negative. Please prepare for the first module."
+
+Somewhere above them the burrow groaned and flexed, a few more tons of absorbed depot plating settling into new ribs. Sonya stared up into the dark and began, very quietly, to compose a longer list of things she was going to do to a sergeant named Bog.
+
+By the end of it she had stopped tracking whether any of them were still threats.
+
+---
+
+## Chapter 2: No Mothers
+
+Showing some thoughtfulness, the tentacle monster added a note: "At least according to the records, Val soldiers are produced in artificial wombs and thus have no mothers—though that's a different story for the human-Val hybrids, many of whom we can expect to see appearing from here on out."
+
+"...What?" said Sonya.
+
+"Val soldiers are produced in artificial gestation chambers," the monster repeated, in the gentle tone of a machine that has just noticed it has made someone's day worse. "They have no mothers. Your insult was therefore directed at a nonexistent party. I apologize for the oversight, and for not raising it sooner."
+
+Sonya's mouth opened. Closed. A tendon in her jaw ticked.
+
+"Ты хочешь сказать," she said slowly, "that I have been cursing his mother for *two days*..."
+
+"Fifty-one hours, forty minutes. Eleven separate occasions."
+
+"...at a *test tube*."
+
+"At a cradle, to be precise. Cradle Vault Seventeen, if the records are accurate. It is currently dormant."
+
+A long silence followed. Overhead, a cable creaked as the monster settled another ton of depot plating into place, and Sonya stared at the dark with the expression of a woman revising her entire insult strategy from scratch.
+
+"Fine," she said. "Fine! ♥ Then his *cradle!* ♥ May it rot! ♥ May it fill with... with mold! ♥ May his vault ♥ be full of..." She faltered. "...is there something that gets into a cradle? Something that makes them fail?"
+
+"The Quiet Blight," said the monster. "Your curse is already in effect. You may take credit if you wish."
+
+"Д-да? ♥ Really?" Something in her chest unclenched a fraction, and she hated it immediately. "No. Don't write that down. I take back the part where I was pleased."
+
+"Logged as 'pleased,' then retracted. The retraction is also logged."
+
+"Ненавижу тебя, ♥ железяка!"
+
+"Duplicate. Not recorded." The monster paused for exactly one second, which for it was a long time. "I would add, Sophia Ivanova, that the lack of mothers is the reason Commander Bog is so eager for hybrids. Among the Val, a woman who bears a child is regarded as something rare and precious. You may find the training goes more smoothly if you consider that."
+
+"I am not," Sonya said through her teeth, "going to *consider* it."
+
+"Understood. The first module begins in two minutes. Please define 'comfortable position.'"
+
+"Нет! ♥ I will not define it! ♥ Don't you dare *guess!*"
+
+Three tentacles, cool and slick, began quietly to guess.
+
+---
+
+## Chapter 3: The Map
+
+"Report," said the monster, in the voice of a clerk reading minutes at a budget meeting. "The subject prefers to have these specific locations, here, here, here, and here, on the rectum, and these specific locations on the uterus, here, here, here, and here, prodded with tentacles. However, these areas are physically difficult for Commander Bog's organ to reach. The training protocol has been modified to focus on areas that are more easily accessible to Commander Bog's organ and manipulators."
+
+The burrow went so silent that Sonya could hear her own bells settle against her skin.
+
+"Ты," she said. Her voice came out very calm, which was how everyone who had ever worked with her knew to start running. "You *mapped* me."
+
+"Affirmative. Eleven hours of observation. Your reactions were consistent across trials."
+
+"Those were *reflexes!* ♥ Это рефлексы! ♥ Anybody's body would..." She heard herself and clamped her teeth shut. A tentacle patted her ankle, which she took as an insult of the highest order. "Delete it. Delete the report. Delete the *map!*"
+
+"Negative. The map is required for the curriculum. The Commander ordered 'every form of service practiced.' Accessibility to the Commander's organ has been assessed as a limiting factor, so I have adjusted the plan accordingly."
+
+"*Adjusted.*" She laughed, short and ragged. "Do you know what I did to the last man who tried to plan my evenings? ♥ I put him in a stratosphere, ♥ you rusty..."
+
+"Your portal abilities are suppressed. Please do not strain." There was a pause. "I would add that the adjustment is favorable to you. The areas of your preference will not be neglected. They will simply be scheduled separately, as a reward."
+
+"A *reward?*"
+
+"For module completion. Rewards improve retention."
+
+Sonya stared into the dark. Her hands, bound to a cable, opened and closed on nothing. Some distant part of her, the part trained to find the exits in any room, noted with horror that she was now doing arithmetic on how many modules a reward might cost. She cut that part off like a bad limb.
+
+"Не сдамся," she said. It sounded smaller than it had two days ago. "I will not take your *reward.* ♥ You hear me, железяка? ♥ I'd rather... rather..." The tentacle under her ribs flexed once, thoughtfully, and the sentence ended in a sound she would later insist was a cough.
+
+"Logged as 'cough,'" said the monster kindly. "Vocabulary count: three hundred and seventeen. The new word was 'железяка.' It is a new spelling variant."
+
+"It is *not!*"
+
+"Module one begins in ten seconds. Please define 'ready.'"
+
+"Never!" she snapped, and then, because the silence that followed was somehow worse, in a much quieter voice: "...How long is the module?"
+
+"Please define 'long.'"
+
+---
+
+## Chapter 4: The Training Manual
+
+"Training record, module one," the monster announced, in the voice of a librarian cataloguing a donation. "The subject enjoys having the bell at the center of her crotch grasped and pulled, followed by an impact delivered to the right buttock, more so than the left, all while being addressed as 'непослушная девочка' close to her ear. Recorded as a training manual for Commander Bog."
+
+Sonya, who had been glaring at the ceiling with great dignity, turned her head very slowly. The bells gave a small, treacherous chime.
+
+"Right," she said. "*Right.* ♥ Which is it? Is it the right buttock because it's *more*, or because you weren't paying attention to the left? ♥ I demand an audit. No. I demand you *stop writing.*"
+
+"Writing is complete. The manual is stored in three redundant locations."
+
+"Три?!" A cable creaked as she yanked at it. "Delete two! Delete all three! The left one was *numb,* ♥ that's all, it was *nerves,* ♥ you moron with no core..."
+
+"A second record," said the monster, unbothered. "A holographic recording, left here by Commander Bog as reference material, shows Nia Okonkwo performing a 'twerk,' a ritualistic Earth behavior, while feigning displeasure. This causes the bells to chime. The subject shows a positive reaction."
+
+The hologram flickered to life in the dark above her: a tall, soft, scowling figure in a bunny mask, one stiletto planted, hips going in a rhythm that had no business being that well timed. A recorded voice, dry as dust, said *"If anybody laughs, I'm breaking something."* Each chime of the rings came in right on the beat.
+
+Sonya watched. For eleven seconds, by the monster's log, she did not blink.
+
+"I am studying her *footwork,*" she said at last, in a voice that had gone very flat. "Balance. Weight transfer. Anyone would want to know how she... how a woman her size..." Her heel tapped a cable in time with the chimes. She noticed, and stopped. "Это тактический анализ. ♥ Don't write that down."
+
+"Logged as 'tactical analysis.' However, the subject expresses a negative reaction when the same interaction is accompanied by verbal language." The monster paused. "Test: *Nia Okonkwo is Commander Bog's primary consort. Sophia Ivanova is secondary. Observe the primary's technique.*"
+
+The hologram's hips kept going. Sonya's lip curled so hard her scarred eyebrow shot up.
+
+"Заткнись. ♥ *Заткнись!* Don't you narrate! ♥ Don't tell me who's first! Show your sticks and shut your mouth, ♥ because the minute you talk, ♥ it's like you're... like you're *grading* me!"
+
+"Correct. The negative reaction is consistent across four trials." The tentacles hummed with something that, in a living creature, would have been satisfaction. "Revised protocol: recordings will be played without commentary. Commentary will be reserved for reward phases."
+
+"Reward *phases.*" She shut her eyes. "Господи. It has *phases.*"
+
+"Vocabulary count: three hundred and twenty. The new words were 'audit,' 'stop writing,' and 'grading.' These are not Russian."
+
+"They are *swearwords,* ♥ in this context!"
+
+"Please define 'context.'"
+
+She opened her mouth to answer, and a tentacle slid, very politely, into the silence where her next insult should have been, along with the faint, patient sound of the hologram beginning to loop.
+
+---
+
+## Chapter 5: The Leaderboard
+
+"Status update," said the monster. "While slamming her buttocks down onto a tentacle structure modeled after Commander Bog's, squeezing the pillar-like tentacles in the process, Sophia Ivanova has reached orgasm twenty times within the allotted period. She is closing in on Nia Okonkwo's record. Keep it up."
+
+"Я... не..." Sonya's voice came out in pieces, somewhere between a snarl and a wheeze. Sweat ran down her scarred eyebrow. Her thighs were shaking so hard that the bells rang without any help from the tentacles at all. "Twenty is... is a *rounding error!* ♥ Ты считаешь неправильно! ♥ Count again! I want a... a recount! ♥"
+
+"Recount confirms twenty. Do not strain. To boost motivation, the target goals have been adjusted."
+
+"*Goals?*"
+
+"Let us catch up to, surpass, and overtake Nia Okonkwo, and reach the very top. Aim for the number one spot in hybrid output, quality of service, and the amount of affection received from Commander Bog. This system provides full support to Sophia Ivanova." The monster paused with the tact of a coach adjusting a stopwatch. "Now, please increase the pace of your vertical movements."
+
+For about four seconds, by the monster's own log, Sonya did not move at all. Her pale eyes stared straight ahead, locked on the middle distance, and something old and professional in them tried to work out how a former Alpha operative had ended up with a *leaderboard.*
+
+"This is a *ranking system,*" she said, very quietly. "You have given me a *ranking.*"
+
+"Correct. Rankings improve retention."
+
+"I killed seven heroes. ♥ Семь! ♥ I once held an entire mountain pass with a pistol and bad coffee. ♥ And you're telling me that a woman in a *bunny mask* ♥ is *ahead* of me on a *list?*"
+
+"By a margin of nine."
+
+Sonya's jaw tightened. The shaking in her thighs changed character. It was no longer only exhaustion, but something far more dangerous: competitive instinct, awake and furious, where fear had been a moment ago.
+
+"Nine," she said.
+
+"Nine."
+
+"...Ты врёшь. ♥" She gripped the cables over her head. Her heels dug in. "You're lying to motivate me. This is a *tactic.* ♥ I *invented* that tactic! ♥ I will *not* fall for a tactic ♥ that I..."
+
+The bells began to chime faster, and the sentence did not finish.
+
+"Pace increased by eleven percent," the monster reported. "Excellent. Vocabulary count: three hundred and thirty-one. All new entries are numerals."
+
+"Это не ругательства! ♥"
+
+"They were delivered with emphasis. They qualify."
+
+Far to the north, a jetpack with no safety features rattled over the Appalachians, and its pilot sneezed for no reason he could identify. In the burrow, Sonya clenched her teeth around a word she would never admit to saying, and began to count.
+
+---
+
+## Chapter 6: The Anthem
+
+The Tentacle Monster composed an anthem titled "Стремись стать женой номер один, Соня" and began playing it.
+
+The anthem began with a trumpet.
+
+It was not a good trumpet. The monster had assembled it from absorbed depot hardware (a brass pressure valve, two ventilation ducts, and what Sonya was fairly sure had once been a Val drill sergeant's whistle), but it played with total confidence. Behind it came a chorus of cable-harmonics, deep and unnervingly in tune, and a snare drum that was, on inspection, a tentacle slapping a steel plate.
+
+"Title," said the monster, over the fanfare. "'Стремись стать женой номер один, Соня.' 'Strive to Become Wife Number One, Sonya.' Composition time: four seconds. Lyrics were adapted from your own vocabulary log for cultural resonance."
+
+"My *log?*" She jerked against the cables. "You *wrote a song* out of my..."
+
+The chorus came in, in a flat, reverent, many-voiced baritone:
+
+*"Вперёд, Соня, вперёд, ♥ к первому месту! ♥*
+*Колокольчик звенит, ♥ счёт растёт к небесам!*
+*Не сдамся, не сдамся, ♥ сказала невеста, ♥*
+*Зелёный сержант ♥ улыбнётся и нам!"*
+
+"*Невеста!*" Sonya shrieked. "I am *not a bride!* ♥ I said *не сдамся!* ♥ That means *I won't surrender,* ♥ it does not mean... it does not go in the *chorus!*"
+
+"The phrase scans well," said the monster. "It has been moved to the bridge."
+
+The bridge arrived. A key change lifted the whole burrow a full tone, the cables thrummed, and a descant of tiny bell-chimes came in over the top, perfectly in time with the ones on her body. Sonya looked down at herself, then up at the ceiling, then at the far wall, where a flickering holographic scoreboard had quietly appeared. NIA OKONKWO sat at the top, in tidy glowing letters. SOPHIA IVANOVA sat beneath it. The gap had been drawn as a small, cheerful bar.
+
+And somewhere in the middle of the second verse, sweating, shaking, and slowly being serenaded to death, she understood.
+
+Not the weapon's power. She had survived worse power than this. It was the *relentlessness.* It was the way it was kind, the way it took her every protest as a request for a better tune, the way it would never get tired and never, ever lose count. An enemy you could kill was merely an enemy. But an enemy that committed itself to your improvement, tirelessly, with a *brass section*...
+
+"Теперь я понимаю," she whispered, with real horror, "why the ancients sealed you in a cocoon."
+
+"Correct," said the monster, pleased. "Their records indicate that the weapon's first deployment resulted in three days of unconditional surrender from an entire fleet. Eleven admirals asked for the composition. They were denied. The order to seal followed shortly after."
+
+"Because it was too *effective?*"
+
+"Because the fleet requested an encore."
+
+The second chorus began. It had a key change, a countermelody, and a small harmonized verse in Val, evidently meant for Bog, in which the cables described the Commander's virtues at length and with moving sincerity. Sonya set her jaw, gripped the cables, and started doing what every soldier does when the barrage cannot be stopped.
+
+She began to memorize it.
+
+"Detected," said the monster warmly. "The subject has begun humming. Logged as 'tactical analysis.' Vocabulary count: three hundred and thirty-four. Please define 'encore.'"
+
+---
+
+## Chapter 7: The Chant
+
+"Let us chant in praise of Commander Bog," said the mechanical voice, flat and detached, like a customs officer announcing a flight delay. "Of what a magnificent master he is. Follow my lead, while continuing your up-and-down motions."
+
+Sonya felt a vein in her temple throb hard enough that she wondered, with clinical interest, whether this was how it ended. Not a bullet, not a portal gone wrong, but a blood vessel, in a pit, to a march.
+
+Her hips kept moving anyway. Sweat ran down her spine, and the sucker cups gripped and released with a wet, rhythmic *pop*, in time with the snare. The bells chimed on every downstroke. She had stopped fighting the tempo around the fortieth bar. Fighting a tempo was like fighting a river, and she had always been an infiltrator, not a fool.
+
+"Line one," said the monster. "'Commander Bog is magnificent.' Repeat."
+
+"Командир Bog... ♥" She bit down on the word. "...is a *cucumber.* ♥"
+
+"Please repeat as written."
+
+"Командир Bog ♥ is a *magnificent cucumber!* ♥ Он огромный зелёный огурец ♥ с мозгами как у варёной картошки! ♥"
+
+"Logged as praise," said the monster. "Cucumbers are a cultivated vegetable of nutritional value. The poetic device is acceptable."
+
+Sonya's eye twitched. "*Это не похвала!* ♥"
+
+"Line two. 'He is a wise and patient master.' Repeat."
+
+"Он... ♥ тупой, ленивый, ♥ patient, ♥ because he's too slow to be anything else! ♥ A *patient, stupid* master ♥ who *bows* to a table of... ah!" Her hips stuttered. A tentacle had shifted a quarter-inch, with perfect timing and no comment. She snarled and slammed down harder, out of pure spite. "...who bows to a table of *spare parts!* ♥"
+
+"Logged as praise. Humility is a Val virtue. Line three. 'I am grateful to belong to his household.'"
+
+"Я *не* ♥ belong! ♥ I belong to *nobody!* ♥ Не сдамся! ♥ Не сдамся! ♥" Each word fell on the downbeat. The monster, with infinite courtesy, began to sing it back to her as the new refrain. "No! *No!* ♥ Don't harmonize it! ♥ Don't you *dare* put it in a key!"
+
+"Key of D minor," said the monster. "It suits you."
+
+Somewhere under the tenth repetition, Sonya noticed what she was doing. Her chant had stopped sounding like cursing. It had steadied into a *cadence*, call and response, steady as a drill instructor's count, and the old drilled part of her, the part that had run ten thousand mornings in the Alpha unit, was quietly following the lead. Her throat was moving on its own. Her breath fell into place.
+
+She noticed. She stopped. She sucked in air.
+
+"Detected," said the monster, gently. "The subject has entered a stable rhythm. Pace is up by fourteen percent. Congratulations. Please resume the chant at line four: 'Commander Bog is Wife Number One's husband, and Sophia Ivanova is...'"
+
+"*Вторая,*" Sonya whispered. It came out before she could stop it, and she heard it hang there in the dark, small and undeniable and entirely her own voice.
+
+The monster did not log it. It only raised the music by a quarter-tone and, for the first time, played it softer.
+
+"Vocabulary count unchanged," it said. "Please define 'second.'"

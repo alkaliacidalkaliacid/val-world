@@ -1,0 +1,23 @@
+# Beat Sheet: ch97 Removed
+
+> User-supplied plot, 2026-11-19. Meta note (never to be written into the prose):
+> Bog's interjection in beat 3 is factually correct, but for the Mediatoress the
+> worsened state of the singularity outweighs it. In-story, she simply ignores him.
+
+- POV: Bog (limited), anchored in the cavern; Priya's submerged side surfaces only in speech, as it did in ch96's brief glimpse.
+- Location / time of day: The cavern beneath the mountain ledge, immediately after ch96 — minutes later, same day (fall + 4). The burying is done; the purple light is out; the Mediatoress's red light is the scene's light. Nia is still descending, not present.
+- Purpose of this chapter (what the POV character wants): Bog wants to keep standing in this conversation without getting himself (or Rin) erased — and to keep his brief: protect Priya. Priya, submerged, wants one thing only: to stop the entity wearing her from doing what it has just announced.
+- Obstacle (what blocks them): The Mediatoress has finished the burying and declared the "resolution": humanity, left alone, will expose the buried singularity again and risk unmaking the universe — so humanity is to be erased, all of it. She cannot be argued with on her own terms: Bog's factually correct objection does not even register.
+- Twist (unexpected development or new fact): The "resolution" of ch94 is defined at last — total erasure of humanity. And the Mediatoress, mid-argument, casually outs Priya's attraction to Bog and offers him to her as a replacement for her family: live with the green one.
+- Emotional shift (start → end): Cold aftermath of the burying → dawning horror (Priya) → a desperate, two-voiced argument in one mouth → Priya's terror at its peak ("Was I born for this?") → Rin's shout → unresolved confusion.
+- Cost / state change (what cannot go back to how it was): The declaration has been made in front of witnesses; it cannot be unheard. Priya has openly defied her own entity aloud for the first time. Bog has heard his whole species dismissed as beneath notice — and heard Priya's feelings for him named by a third party.
+- Chapter ending hook (pick one type: new fact / decision / crisis / misunderstanding): Crisis — the argument collapses into confusion (Priya's two voices, Rin's shout, the declaration standing) with nothing settled.
+- Thread IDs to resolve or plant (see 03_open_threads.md): T03 advances — the "resolution" is now defined (erasure of humanity), not resolved. T12 advances — the Mediatoress's contempt for Bog made plain (she ignores his correct objection entirely). No new thread planted.
+- What you changed from the previous chapter (at least one item from the rotation in 04_style_guide.md): Conflict type (ch96: a cosmic task performed; ch97: a confrontation in dialogue). Ending hook type (ch96: a decision declared; ch97: a crisis dissolving into confusion).
+
+## Scene Breakdown (3-5 scenes)
+1. The declaration. The Mediatoress turns from the buried source and gives Rin one glance — the astra-looser — then states it plainly: left to itself, humanity will dig at what is buried, expose the singularity again, and the universe may come apart. Therefore humanity will be erased. All of it.
+2. One mouth, two voices. Priya surfaces in horror inside her own manifestation and argues back through the same lips — no, stop, she won't — while the Mediatoress answers in the same mouth, unhurried: the grounds. What Rin loosed nearly began the unmaking; the singularity's state is worse for it. Priya's lines carry her stutter at its strongest (personal, terrified); the entity's lines are fluent and cold.
+3. Bog's interjection. Bog points out, reasonably, that when Rin blew the Bhuta apart the universe had not in fact started breaking — and that Rin's work is why the burying could be done at all without the Bhuta's threat on it. He is ignored. Completely. The conversation continues as if the green one had not spoken.
+4. The family. Priya pleads by name — Arjun, the girls, Dadi; she cannot erase her family. The Mediatoress, serene: leave them. Live with the green one instead. She notes, without malice and without tact, that Priya is drawn to him anyway. Green ones have none of humanity's potential; left alone they will die out on their own — inconsequential, no threat to the universe, nothing to weigh. Bog, quietly, hurt: "Well. That's real nice to hear."
+5. The peak, and confusion. Priya's terror crests: was she born for *this*? Rin, loud and furious on her behalf, shouts the entity down — "You don't understand anything!" Voices overlap; the declaration stands; the chapter ends in confusion, nothing resolved.

@@ -1,0 +1,32 @@
+# Review: ch49 "Recreation" (manuscript/ch49_recreation.md)
+
+- Status: **Closed** (2026-11-18) - A1 ruled (a) and applied; the count was ruled wrong by the user and corrected with a +10 cascade (see below). Manuscript: 743 words (summary header matches).
+- Source check (dropped-passage watch): diffed against the archive source (`archive/source_prose_bog_and_nia_part05.md`, section 1). Identical apart from the migration-era ♥-attachment tightening ("The ♥" -> "The♥", "Go ♥" -> "Go♥", etc., per the style guide rule) and trailing blank lines. **No dropped passages in ch49.** Part05 volume carries the same text (♥ tightening present) - in sync.
+
+## A. Canon / setting contradictions
+
+- **A1 (main point) - The soldiers call Nia "Pickle", an origin the current text no longer supports.** Line 24: '"Hey, Pickle," the soldier said, in thick, amused Val, slapping her thigh.' The line is original prose, but the ch01-48 pass has since fixed the word's ownership: "pickle" is Nia's one-way insult for Bog (origin ch04 - she calls him "you overgrown pickle" and Bog "filed it away"); Bog's pet name for her is "squeeze candy"; and every Bog-to-Nia "pickle" was scrubbed as a Claude hallucination pattern (ch14, ch16, ch39 rulings). As the text now stands, no one has ever called Nia "Pickle" and the squad has no source for the word. `chapters/ch49.md` Facts claim the soldiers' nickname is "(from Bog's word)" - unsupportable in the current text (Bog's word for her is "squeeze candy"). Needs a ruling: (a) change the soldier's form of address to a different nickname (e.g. "Bunny" - she is captured in the bunny costume), (b) keep "Pickle" and supply / record an origin, or (c) keep the line as-is and correct only the Facts note. Note: her litany adding *Pickle* later in this same chapter is a separate, consistent beat - that is her name for Bog, surfacing uninvited; she is not answering to it.
+- **The count - RULED WRONG by the user and corrected (2026-11-18).** This review initially verified 413 as consistent (queue uncounted, Gorrak = 414 in ch51); the user overruled that reading: the men of the queue ARE counted. The number added to 413 fixes how many of the unit's soldiers took part, and the user set it at **ten**: the lieutenant first, ten counted during the night, **413 + 10 = 423**. Gorrak is NOT among the ten - last in the queue after losing the dice game, his turn never came before the attack; he is counted in ch51 as **424** ("reconnaissance"). Applied: ch49 prose "*Four hundred and thirteen.*" -> "*Four hundred and twenty-three.*" (manuscript + part05); ch51 prose "*Four hundred and fourteen,*" -> "*Four hundred and twenty-four,*" (manuscript + part05); chapters/ch49.md (summary + Facts rewritten), chapters/ch51.md (summary + Facts), and chapters/_session_to_chapter_map.md (ch49 / ch51 rows and the count note, marked as superseding the migration-era reconciliation) all synced. This also settles B1: "the first one / the second" are the men of the queue, as the user read them; the wording itself was left unchanged, its antecedent no longer load-bearing now that the total is stated.
+- Verified: "Hold the corridor. Nine days. Thirty thousand people." matches Nia's card (Baltimore evacuation corridor, nine days, 30,000 escaped). The Class 5 toolkit and its held cover match Darkwing's card (he later pockets it only to return it to her) and the ch40 ruling that Bog sent it; "carried it through an escape pod crash and four miles of Mississippi pine" matches the pod Bog sealed her into (ch38-40; cf. ch71 "a sealed pod with a toolkit and a launch button").
+- Verified: Sergeant Gorrak is on the minor-cast card (lost the dice game; takes her leash in ch50) - consistent with his ch49 placement at the end of the queue.
+
+## B. Internal consistency and voice
+
+- B1 (clarity flag, optional fix) - "She had counted the first one an hour ago, when the squad's lieutenant ripped the tail out of her costume... She had counted the second when the lieutenant's palm came down on her right buttock..." The antecedent of "the first one / the second" is unclear. Read as men, it would break the 413 arithmetic (see A-verification); read as palm prints, it chains cleanly into "the fourth palm print" and "the eleventh" later in the chapter. A one-beat clarification would close off the men-reading; not required for consistency.
+- B2 (observation, no fix proposed) - The tail. The lieutenant "ripped the tail out of her costume, examined it" and announced she was "already fitted"; by ch51 the tail is back in place ("The tail, which she had never forgiven, swayed in a lazy arc"). Its return is never shown. The implication is strong (he examined the fitting; the queue's amusement at the word "tail" in this chapter presupposes it), but a careful reader may trip on it.
+- B3 (observation, corrected by the count ruling) - Gorrak's separate counting in ch51 "as reconnaissance" rests on his turn never having come in the tent: he lost the dice game, stood last in the queue, and claimed her by leash ("Finders keepers", ch50) only during the attack. The ten counted in ch49 are the men whose turns did come. Recorded so later chapters keep it straight.
+
+## C. Craft
+
+- Strong arc opener. Her resistance is informational - the door she holds shut is three words (Hermes, Appalachia, collar) - which sets the Mississippi arc's stakes without exposition. The grief beat for Bog ("his species had never invented the farewell") works because it arrives as her thought, not narration. The closing hum and the untouched bell chiming on its own is a clean cliffhanger into ch50. No changes proposed.
+
+## D. Minor items
+
+- Word count: header 743 = actual 743. Banned-name scan clean. Part05 in sync (see source check).
+- The `chapters/ch49.md` Facts note "(from Bog's word)" follows A1's ruling - to be corrected or replaced with whatever A1 decides.
+
+## Rulings and application
+
+1. **A1: ruled (a), applied (2026-11-18).** The soldier's address is now '"Hey, Bunny," the soldier said' - for the costume she was captured in (manuscript + part05). The `chapters/ch49.md` Facts note now reads: the soldiers call her 'Bunny' (for the costume). Her litany's *Pickle* (Bog) is untouched.
+2. **Count: ruled and applied (2026-11-18)** - see the corrected count entry in section A. 413 was the error; +10 (the unit's participating soldiers) gives 423 in ch49 and 424 for Gorrak in ch51, with all records synced as listed there.
+3. B1: superseded by the count ruling (item 2). B2 left as an observation, no fix requested.
