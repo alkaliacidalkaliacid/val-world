@@ -532,6 +532,10 @@ reclaiming one night as Daniel's wife; Rin is bunked with Priya's daughters.
   knowing circle.
 - **ch119–130 — Steward.** Travel, sunbathing rest, household record,
   Sonya's continued regimen and presentation to Bog.
+- **ch131 — The tag-along.** The monster detaches a small cluster
+  of itself, collared from its absorbed depot stock, and the cluster
+  asks to accompany Bog. He permits it — unseen by the humans — and
+  it ends the night loose inside Priya's house, on his ceiling.
 
 ### Tentacle Monster — the others (Nia / Rin / Priya)
 

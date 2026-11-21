@@ -6,6 +6,7 @@
 ## Null-collar
 - See `00_canon.md` for rules: power suppression, vital-sign and location monitoring, pain pulses, resistance to ordinary tools.
 - Each collar is a standalone system: it carries its own control system on board and does not tie back to any central network. This is why a spare collar clamped onto the tentacle monster's limb in ch031 could engage a General Control System on the spot. (User ruling, ch031 review 2026-11-18: "ties back to" was changed to "equipped with" in Bog's reasoning for exactly this reason.)
+- The monster holds collar stock of its own: depot inventory it absorbed in orbit. It collared Sonya from that absorbed stock (ch038) and fitted a small detached cluster of itself with one (ch131). No count was ever set for the absorbed stock and nothing records it as exhausted. Distinct from Bog's own spares — two collars from Hermes's shed, spent on Rin (ch086) and Priya (ch098), the last one on his belt gone at ch098.
 
 ## General Control System (expanded ch112–116)
 - The collar's on-board system is the General Control System. The tentacle monster wears a collar fitted on one of its tentacles and can instruct in the System's use, given a toolkit of Class 2 or higher (ch112). It teaches only on Bog's order (ch113).

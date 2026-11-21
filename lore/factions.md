@@ -12,6 +12,7 @@
 - Some units include non-powered former crime-fighters and vigilantes who rely on training, investigation, disguises, and local knowledge.
 - Strength: intimate local knowledge. Weakness: cannot coordinate beyond their own territory. Internally divided between careful defense and aggressive reprisals.
 - Field identification: a white armband marked with a red cross and a number, worn to claim lawful-combatant status under the Laws of War.
+- Bases (user ruling, 2026-11-21): the Appalachian branch holds several bases on the Mississippi side of its broad region; Darkwing's bunker (northern Mississippi) is one of them — abandoning it would not end the branch. Geography in lore/geography.md.
 - Information: they hold a great deal of accumulated data — records on people the Val have taken, on camps and work details, built up cell by cell over six years. **How comprehensive any of it is remains unclear** (user ruling, 2026-11-20): coverage is deep in their own territories and patchy to nonexistent beyond them, records are unverified and unindexed across cells, and nobody — including the Old Guards themselves — knows what fraction of the whole their data represents. Keep this vagueness in prose: a large haystack is established; that any given needle is in it is not.
 
 ### The Free Clinics

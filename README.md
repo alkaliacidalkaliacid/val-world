@@ -36,9 +36,9 @@ novel-llm-template-en/
 ```
 
 ## Workflow for One Chapter
-1. **Beat planning** - Use prompts/01. Don't write prose yet. Kill chapters with no change at this stage
-2. **Write the chapter** - Use prompts/02. Include only the fixed set from CONTEXT_PACK. **After writing, always present the manuscript file itself in the chat** (attach the chapter's manuscript file so the user can open it — user instruction, 2026-11-20). This applies to the first draft and to every revised version.
-3. **Repetition check** - Use prompts/05 to get feedback only, then fix only those passages
+1. **Beat planning** - Use prompts/01. Don't write prose yet. Kill chapters with no change at this stage. The beat sheet carries a **specifics list**: the scene-fitted specific nouns for the chapter's settings — vegetation, animals, geology and landforms, buildings and furniture, props, people — so the first draft never has to fall back on generics.
+2. **Write the chapter** - Use prompts/02. Include only the fixed set from CONTEXT_PACK, and **re-read 04_style_guide.md before drafting**. Two style rules are applied consciously *while drafting*, not left to cleanup (user instruction, 2026-11-21): (a) **background specificity** — name background elements with scene-fitted specifics (place, person, time, season, weather, situation; vegetation, animals, geology, and the built environment included), never generics like "a tree", "the grass", "his things"; (b) **paraphrase** — where the same noun would recur in a passage, vary it with a fitting paraphrase or metaphor (deliberate motifs, liturgy, and canon terms excepted). **After writing, always present the manuscript file itself in the chat** (attach the chapter's manuscript file so the user can open it — user instruction, 2026-11-20). This applies to the first draft and to every revised version.
+3. **Revision pass (standing step after every first draft)** - Use prompts/05 to get feedback only — repetition, background specificity (any generic that survived the draft, with the specific that fits), and repeated nouns that want a paraphrase — then fix only the flagged passages, sync the part volume, and present the revised manuscript file in the chat.
 4. **Extract the diff** - Use prompts/03 to extract only the diff, update 02_current_state.yaml and 03_open_threads.md, and create the chapter summary
 5. **Only when an arc ends** - Use prompts/04 to create the arc summary and rewrite 01_synopsis.md
 

@@ -9,7 +9,10 @@ reviews this log after the fact.
 ## The two rules being applied
 
 - **Background specificity** (`04_style_guide.md`, ruled
-  2026-11-20; concise form in
+  2026-11-20, scope broadened 2026-11-21 to cover every
+  domain a scene touches — vegetation, animals, geology
+  and landforms, the built environment, weather and light;
+  concise form in
   `reviews/style_guide_concise_draft.md` §A/B, as amended
   2026-11-21): Name specifics, not generics — a shagbark
   hickory with shaggy, weathered bark, not "a tree". Fit the
@@ -115,7 +118,7 @@ tests above and must be left alone (see Exclusions).
 - Sync every edited chapter into its part volume
   (`manuscript/partXX_*.md`) in the same run. Do NOT
   regenerate PDFs or the GitHub zip; do NOT recreate the
-  deleted `blocks/` volumes.
+  deleted per-volume MD copies (the former `blocks/` folder).
 - **Collision rule with the AAVE pass:** the AAVE pass
   (`ashen-dominion-nia-aave-pass`) edits only Nia's
   heightened lines. This pass must not rewrite a line the

@@ -13,6 +13,8 @@ Do not rewrite the prose. Point out problems only, from the following angles:
 2. Lack of change: Places where nothing has changed between the start and end of the chapter
 3. Easiness: Coincidences, expository dialogue, or conflicts settled just by talking
 4. Style guide violations: Anything that hits a banned pattern
+5. Background specificity: Generic nouns ("a tree", "the grass", "his things", "the dresser") where a specific fitted to the scene — place, person, time, season, weather, situation; vegetation, animals, geology and landforms, the built environment — exists. Name the generic and the specific that should replace it.
+6. Repeated nouns: The same noun recurring within a passage where a fitting paraphrase or metaphor would serve. Deliberate motifs, liturgy, and canon terms are excepted — do not flag those.
 
 For each point, add a one-line suggestion for how to fix it. If there are no problems, reply only with "No issues."
 
@@ -20,4 +22,4 @@ For each point, add a one-line suggestion for how to fix it. If there are no pro
 ```
 
 ## How to use it
-Ask for a rewrite only of the flagged passages. Rewriting the whole chapter wastes tokens and homogenizes the parts that were already good.
+This check is the **standing revision pass after every first draft** (README, Workflow step 3 — user instruction, 2026-11-21), not an optional extra. Ask for a rewrite only of the flagged passages. Rewriting the whole chapter wastes tokens and homogenizes the parts that were already good. After fixing, sync the part volume and present the revised manuscript file in the chat.

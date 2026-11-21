@@ -6,19 +6,19 @@
 
 story:
   current_arc: "Florence: Priya home under cover story; Dadi thawed a fraction; monster hides outside town with Sonya aboard; family searches have a route (Clinics, Old Guards)"
-  current_chapter: 130
+  current_chapter: 131
   story_time: "Provisionally 2047, six years into the occupation"
   timeline:
     anchor: "Day 1 = the day Bog bought Nia (ch001)."
-    current_day: "Fall + 5. Absolute Day count not fixable; see 05_timeline.md."
-    time_of_day: "Deep night of fall + 5: coupling complete; Sonya's first full liturgy, perfect"
+    current_day: "Fall + 6. Absolute Day count not fixable; see 05_timeline.md."
+    time_of_day: "First light of fall + 6: Bog back in his cramped bed at Priya's house; the little monster on his ceiling"
     rule: "Never state an elapsed duration in prose unless derivable from 05_timeline.md."
   main_location: "Priya's home, Florence, Alabama. Bog at the monster outside town; Sonya's regimen complete, hatch opened. Two Val spacesuits at the house"
 
 characters:
   - name: "Bog"
     active: true
-    location: "On the monster's back, surfaced in sunlight beyond the search radius (ch119)"
+    location: "Priya's home, Florence — his cramped bed, at dawn (ch131); a detached cluster of the monster is loose in the house"
     physical_state: "Bloodied from the possessed-suit fight (burst nose, creaking ribs) but on his feet; shoulder treated, mobile"
     emotional_state: "Easygoing on the surface; stung: Mediatoress dismissed the Val, named Priya's attraction aloud (ch097)"
     goal_now: "Protect Priya as ordered; free Nia under the deal; keep his secrets from Nia"
@@ -105,6 +105,7 @@ world:
     - "Florence set (ch112); GCS explained (ch113); toolkit on Bog's arm (ch114); loyalty shown (ch115)"
     - "Rin's burst (ch116): collars flared, 'external control' warning; Priya flew as herself (ch117); collars off (ch118): Rin, Priya removed, Nia declined"
     - "Surfaced (ch119): Clinics committed to Nia's family search; Sonya aboard. Household record opened (ch122): Rin 'third', Priya 'fourth'"
+    - "Sonya's liturgy perfected (ch130); after a second helping she sleeps in her compartment (ch131). A small detached, collared cluster of the monster accompanied Bog to Priya's house and is loose inside, unnoticed so far (ch131)"
   public_knowledge:
     - "Dominion alert is raised over the depot attack; no large Val search parties in North America yet"
   secrets_active:
