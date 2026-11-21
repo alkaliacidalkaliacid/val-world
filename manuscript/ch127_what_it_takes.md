@@ -32,7 +32,7 @@ From the dark, in the tone of a trainer at ringside who has money on the outcome
 
 She stopped.
 
-She stopped dead, mid-motion, sitting on him to the root with her hands locked in his and her mouth open, while the question went through her like a change of climate. Children. *Children.* Sophia Ivanova, who had loved women briefly and left them kindly or cruelly and never once, in thirty-odd years of a life built out of exits, imagined — the word itself was a door she had never even walked past. Дети. Her. *His.*
+She stopped dead, mid-motion, sitting on him to the root with her hands locked in his and her mouth open, while the question went through her like a change of climate. Children. *Children.* Sofiya Ivanova, who had loved women briefly and left them kindly or cruelly and never once, in thirty-odd years of a life built out of exits, imagined — the word itself was a door she had never even walked past. Дети. Her. *His.*
 
 "You are insane♥," she said, faintly. "You are — clinically — Bog. Bog♥. I kill people. I am a — я не♥ — I am not a *mother*, I am a —"
 

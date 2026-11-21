@@ -10,6 +10,6 @@ Continuation of ch110 — stealth ordered; the party leaves the cavern inside th
 Consistency notes (checked against state/cards):
 - The monster has maintained living environments inside itself before (Sonya's residence in an absorbed pod; its synthesis of compositions from samples — monster card). A built compartment for passengers is an extension, not a new power.
 - Rin's suit: dead and farewelled in the cavern (ch105); retrieval at her request — she is a mechanic; a wreck is not a loss to her.
-- Introductions: Nia and Priya met on the ledge (ch90) and talked in ch93 without formal introductions; Rin and Priya's underground encounters (ch98–104) were spectacle, not conversation. First proper introductions now.
-- Nia's craving: established in state (consort craving asserting itself after the long separation; Priya noticed her "unwellness" without identifying it, ch93).
+- Introductions: Nia and Priya met on the ledge (ch090) and talked in ch093 without formal introductions; Rin and Priya's underground encounters (ch098–104) were spectacle, not conversation. First proper introductions now.
+- Nia's craving: established in state (consort craving asserting itself after the long separation; Priya noticed her "unwellness" without identifying it, ch093).
 - Destination not stated in prose (Bog has announced no heading); no prose durations (timeline rule); same day.

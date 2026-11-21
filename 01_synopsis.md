@@ -1,7 +1,7 @@
 # 01_synopsis.md - Full Synopsis (Fixed Length)
 
 > Migrated 2026-11-17 from `archive/source_bog_nia_story_context_summary.md` (developments through session 48, "Florence / Module Nine").
-> Refreshed 2026-11-18 to the post-ch90 state (the former single ch71, "The Road to Florence", was split into ch71-90; the full ch01-90 proofreading pass is complete).
+> Refreshed 2026-11-18 to the post-ch090 state (the former single ch071, "The Road to Florence", was split into ch071-090; the full ch001-090 proofreading pass is complete).
 > Rule: Do not append. Every time an arc ends, rewrite it to stay within 200-250 words.
 
 ## Synopsis (200-250 words max)

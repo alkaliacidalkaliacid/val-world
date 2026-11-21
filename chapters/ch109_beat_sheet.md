@@ -10,5 +10,5 @@ POV: Nia. Continuation of ch108 — the party ascending, searching for an exit.
 Consistency notes (checked against state/timeline):
 - Party order per ch108: Rin ahead with the chemical light, Nia in command, Bog behind carrying Priya on his shoulder.
 - The monster obeys Bog as "Commander" via the collar General Control System (monster card); its voice is flat, literal, courteous. It has travelled underground before (burrowed after its fall).
-- Priya is herself again (Mediatoress inactive since ch104); both spare collars are spent (Rin ch86, Priya ch98) — Nia's inventory of the collars is sight, per ch108; she still has not heard the consort declarations.
+- Priya is herself again (Mediatoress inactive since ch104); both spare collars are spent (Rin ch086, Priya ch098) — Nia's inventory of the collars is sight, per ch108; she still has not heard the consort declarations.
 - No prose durations (timeline rule); same day, minutes after ch108.

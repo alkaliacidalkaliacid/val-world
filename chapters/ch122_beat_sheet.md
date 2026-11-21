@@ -19,7 +19,7 @@
 >   into Nia's approach), seen this time from the sunbathing group.
 >   ch122 runs parallel to ch120: Nia's tribunal at the tree and the
 >   monster's reception of Rin and Priya happen in the same minutes,
->   in the same 30 m field, out of each other's attention. No bridge
+>   in the same hundred-foot field, out of each other's attention. No bridge
 >   needed and no contradiction with ch120–121.
 > - **The monster "introduces itself":** it has already met both women
 >   (ch109–111; the four made formal introductions aboard in ch111,
@@ -43,8 +43,8 @@
 > - **The meal:** the monster synthesises compositions from samples
 >   (established); a synthetic replica of Bog's semen is already its
 >   standing work — Sonya's feeding tube delivers exactly that
->   (ch119). Rin has performed the household liturgy twice (ch92,
->   ch95) and Priya joined the duet in the dark in ch104 ("I-I-I want
+>   (ch119). Rin has performed the household liturgy twice (ch092,
+>   ch095) and Priya joined the duet in the dark in ch104 ("I-I-I want
 >   it too...♥") — so the substance is not new to either of them.
 >   What is new is the formality: the monster's own service, the
 >   posture it directs (kneeling on their heels, legs spread), and
@@ -68,7 +68,7 @@
 > - **Story clock:** fall + 5, morning — parallel to ch120 (overlaps
 >   it; the same span also covers ch121's minutes at the tree). The
 >   party is on the surfaced monster's back in sunlight, inside the
->   acoustic insect-repellent field (radius 30 m, ch120). No prose
+>   acoustic insect-repellent field (radius a hundred feet, ch120). No prose
 >   duration stated.
 
 - POV: third-person limited, weighted to Rin and Priya (the scene is
@@ -97,7 +97,7 @@
 - Thread IDs to resolve or plant (see 03_open_threads.md): T01
   shadowed (the harem's shape formalising in the women's own
   mouths). T13 shadowed (the monster's Bog-service is the same
-  regimen Nia knows nothing of, metres away). Sonya's absence from
+  regimen Nia knows nothing of, yards away). Sonya's absence from
   the rank conversation is itself a fact: the monster does not
   mention the second consort it is keeping below.
 

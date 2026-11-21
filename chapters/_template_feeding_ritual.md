@@ -6,8 +6,8 @@
 > liturgy; run the whole sequence, then vary it** — mood, performer,
 > setting, interruptions — rather than copying any single depiction.
 > Canon summary of the custom: lore/val_devices.md, "The household
-> liturgy". Sources: ch07 (first laying-out, Nia), ch10 (toe kisses,
-> prayer form), ch92 (Rin's first performance, full instruction), ch95
+> liturgy". Sources: ch007 (first laying-out, Nia), ch010 (toe kisses,
+> prayer form), ch092 (Rin's first performance, full instruction), ch095
 > (Rin's second, the climb in full), ch104 (abbreviated, in the dark).
 
 ## The sequence (all steps, in order)
@@ -23,13 +23,13 @@
    with him, pleads small and unstudied in English: "Please... please,
    master♥."
 2. **The toe kisses.** A kiss pressed to each of Bog's green toes, one by
-   one, because the liturgy asks for it — *chu♥* per toe. Shown in ch10;
-   in ch95 Rin finds them by touch in the dark, bangs falling in her face.
+   one, because the liturgy asks for it — *chu♥* per toe. Shown in ch010;
+   in ch095 Rin finds them by touch in the dark, bangs falling in her face.
 3. **The climb begins.** On her knees, hands braced on calves like tree
    trunks; on the way up she may be given his fingers to lick clean
-   (ch92: two fingers, each so thick her tongue has to travel around it).
+   (ch092: two fingers, each so thick her tongue has to travel around it).
 4. **The testicles.** Reverent kisses showered on them, one press of the
-   lips at a time — *chu, chu♥* — unhurried as a rosary (ch95). They are
+   lips at a time — *chu, chu♥* — unhurried as a rosary (ch095). They are
    enormous, heavy, green: each a warm dense weight that fills the side of
    her cheek; the skin finer here, softer, sliding a little over what it
    holds; taste of salt and clean sweat. Her hands cup underneath,
@@ -58,7 +58,7 @@
    She swallows; the weight settles in her stomach.
 8. **The thanksgiving prayer.** In the old Val tongue, to the one who
    provided the meal: perfect cadence, the glottal catch, the hushed,
-   reverent drop at the end. Form detail (ch10): she presses her arms
+   reverent drop at the end. Form detail (ch010): she presses her arms
    against her sides to offer it. Bog praises the performance — "Clever
    girl. So devoted." / "Perfect. Not a single mistake." — and does not
    appear to hear what the words mean to her.
@@ -91,9 +91,9 @@
   bangs, wrist-sweeps) / Priya (no full performance on record yet).
 - **Mood:** reverent / furious (ch120: the liturgy administered as a
   scolding, reproaches surfacing between stations) / reluctant /
-  greedy / drowsy-tender (ch95's close: cheek laid along the shaft like
+  greedy / drowsy-tender (ch095's close: cheek laid along the shaft like
   a pillow, a tiny mortifying burp — *gep♥*).
-- **Setting pressure:** kitchen routine (ch07), cave dark (ch92, ch95),
+- **Setting pressure:** kitchen routine (ch007), cave dark (ch092, ch095),
   open air with an audience in earshot (ch120).
 - **Interruptions:** dialogue, charges, negotiations can be woven
   between stations 4–6; she surfaces for air to speak, kisses the sides

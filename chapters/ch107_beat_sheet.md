@@ -7,6 +7,6 @@
 3. Starved of physical contact with her master through the long separation, the consort climaxes from the deep kiss alone.
 4. Bog's hunger is more ferocious than usual: he even neglects to knead the buttocks of Priya, held over his shoulder.
 5. Hearing Nia's stifled moans, Rin and Priya both feel a sudden vicarious surge of arousal.
-6. Closing narration: the treatment reserved for the First Consort is, indeed, something special. (Rendered "primary consort" in prose — the established term since the ch48 ruling; "Wife Number One" has zero occurrences by design.)
+6. Closing narration: the treatment reserved for the First Consort is, indeed, something special. (Rendered "primary consort" in prose — the established term since the ch048 ruling; "Wife Number One" has zero occurrences by design.)
 
-Checks: Nia's craving after the long separation is established (state file; noticed by Priya in ch93). Her ♥ typography per style guide (attached to the preceding word). Bog's feelings are not spelled out in interior monologue (standing pattern) — his hunger is shown, not explained. No prose duration stated.
+Checks: Nia's craving after the long separation is established (state file; noticed by Priya in ch093). Her ♥ typography per style guide (attached to the preceding word). Bog's feelings are not spelled out in interior monologue (standing pattern) — his hunger is shown, not explained. No prose duration stated.

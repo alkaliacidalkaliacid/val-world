@@ -73,7 +73,7 @@
 
 ## Continuity notes
 - **Clothing:** Rin has been naked since the cavern took her suit;
-  Priya's sari is gone (ch94) and she has had nothing since. Nia
+  Priya's sari is gone (ch094) and she has had nothing since. Nia
   wears her loose overalls (state YAML). The suits are Val-sized —
   Bog is 7.5 feet — so both women swim in them; the comedy is
   physical (weight, stride), not verbal.

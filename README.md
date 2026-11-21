@@ -19,7 +19,7 @@ novel-llm-template-en/
 ├── 02_current_state.yaml    ← Current state (overwrite only)
 ├── 03_open_threads.md       ← Open foreshadowing only
 ├── 04_style_guide.md        ← Style and anti-repetition
-├── 05_timeline.md           ← Story timeline, one row per chapter (anchor: Day 1 = ch01)
+├── 05_timeline.md           ← Story timeline, one row per chapter (anchor: Day 1 = ch001)
 ├── characters/
 │   └── _template_character.md
 ├── arcs/

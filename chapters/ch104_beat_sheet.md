@@ -12,7 +12,7 @@
 > user's note, the text does not explain it. Priya's waking line is in her
 > private register: the stammer is back. No duration is stated anywhere.
 
-- POV: Bog (limited), anchored in the cavern, as ch97–103. In darkness the narration runs on sound, touch and Bog's senses, which is also how Rin navigates.
+- POV: Bog (limited), anchored in the cavern, as ch097–103. In darkness the narration runs on sound, touch and Bog's senses, which is also how Rin navigates.
 - Location / time of day: The cavern beneath the mountain ledge, immediately after ch103 — same scene, continuous (fall + 4), now dark.
 - Purpose of this chapter (what the POV character wants): Aftermath and inventory: Bog winds the scene down — an unnecessary kiss lingered over, withdrawal, Priya laid gently on the floor — and checks his people: Priya's belly stroked, Rin asked after ("Any dents?").
 - Obstacle (what blocks them): Priya's superpower fades: the red light vanishes, darkness descends, and Rin — suspended by that light — falls and lands hard on her bottom, tearing up. The Red Mediatoress seems no longer active. Seems: her status (dormant, withdrawn, defeated) is not established.

@@ -61,7 +61,7 @@
 
 ## Continuity notes
 - **The craving:** established for all three — Nia's asserts itself
-  whenever she is parted from him (ch93, ch121); Rin looked at his
+  whenever she is parted from him (ch093, ch121); Rin looked at his
   groin and swallowed and mastered herself (ch117); Priya asked
   aloud for her share (ch104: "I-I-I want it too...♥"). The consort
   physiology in 00_canon.md underwrites it. At the table none of
@@ -72,7 +72,7 @@
 - **Nia's refusal:** iron will, not indifference — the craving is in
   the same chapter, in her most of all. The trigger is witnessed
   love: Arjun holding Priya the way Daniel once held her (the
-  forehead kiss, coffee and mint — ch06/ch08 details). Her resolve
+  forehead kiss, coffee and mint — ch006/ch008 details). Her resolve
   carries its own expiry in the wording: *for this one night*.
 - **Bog's shrug:** he does not argue, sulk or force — consistent
   with his established good-natured obliviousness; he simply takes

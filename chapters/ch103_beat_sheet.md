@@ -6,13 +6,13 @@
 > 02_current_state.yaml and chapters/ch102.md: Priya is suspended in Bog's
 > arms, penetrated, legs locked around his waist; Rin hangs in the red
 > light above them, openly enjoying the show. Consort count check (state
-> YAML + ch96/ch98 record): Nia first, Sonya second, Rin third — Priya is
+> YAML + ch096/ch098 record): Nia first, Sonya second, Rin third — Priya is
 > fourth, which is the joke and the point of Bog's upward glance. Priya's
 > one interior thought (the comparison to Arjun) is user-specified and is
 > rendered as a single narrated beat, not a POV change. The final sequence
 > is user-specified as cries only, no narrative text. No duration stated.
 
-- POV: Bog (limited), anchored in the cavern, as ch97–102, with the single user-specified interior beat for Priya noted above.
+- POV: Bog (limited), anchored in the cavern, as ch097–102, with the single user-specified interior beat for Priya noted above.
 - Location / time of day: The cavern beneath the mountain ledge, immediately after ch102 — same scene, continuous (fall + 4).
 - Purpose of this chapter (what the POV character wants): Bog drives the coupling home — his phallus pounding deep, to the very opening of her womb, a place it has no business entering — and uses the rhythm to issue declarations he expects answered: ownership, submission, rank, purpose.
 - Obstacle (what blocks them): The Mediatoress still answers back — each declaration gets a rebuttal from the god and an answer from the woman, in turns. But the rebuttals are losing structure faster than the answers are.

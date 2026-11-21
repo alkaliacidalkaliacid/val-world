@@ -21,7 +21,7 @@
 ### Axis 1 — The woman who sees
 - **The sight, from earliest memory (user ruling, 2026-11-19):** She has seen
   strange things for as long as she can remember — no onset, no first incident
-  (this fixes the manuscript's "since I was a child," ch58). She is, in fact,
+  (this fixes the manuscript's "since I was a child," ch058). She is, in fact,
   the Red Mediatoress's born Avatāra (see The Red Mediatoress, below); the
   sight is that nature showing. As a small child she was taken for an
   imaginative, fantasy-prone girl; as she grew, the sight combined with her
@@ -151,7 +151,7 @@
   anything, the blank slate suited Dadi. To this day Priya is busy at the
   Free Clinic and Dadi carries much of the running of the household.
 - **The daughters (adopted, 2026-11-19):** Meera, the elder, is the reserved
-  one — wary, sparing with words, her gestures doing the talking (in ch60 she
+  one — wary, sparing with words, her gestures doing the talking (in ch060 she
   slides the raita an inch toward Bog without looking at him, which in her
   language is a treaty); she watches over the younger. Kavya, the younger, is
   blunt and direct — fork held like a weapon, the point-blank "Do you have a
@@ -171,7 +171,7 @@
   themselves among the refugees: Priya, Arjun, the daughters, and Dadi were
   displaced by the thorough destruction of Atlanta and resettled in Florence
   (world facts in 00_canon.md). The improvised household Bog dines with in
-  ch60 — a door laid across sawhorses for a table — is a refugee family's
+  ch060 — a door laid across sawhorses for a table — is a refugee family's
   rebuilt home, not an old Florence family's.
 - **Dress (adopted, 2026-11-19):** In Atlanta she divided it by setting:
   Western dress (blouses, trousers, lab coat) at the university and hospital;
@@ -243,17 +243,20 @@
 ### Her terminology (hers alone - no other character uses these terms; manuscript spelling has no diacritics)
 - **Dharmatman**: the hero side - those who fight for Earth. (She herself claims to be neither Dharmatman nor Papatman.)
 - **Papatman**: villains - the side opposed to the Dharmatman.
-- **Rsi**: a superpower user, of either side. First used on the page in ch94, unexplained in the text.
-- **Astra**: a great weapon or loosed power-attack of the transcendent ones. Earth's transcendent ones used siddhis and astras against the Val, exposing the buried singularity. In ch94 she classes Rin's suit blast (ch81) as a new astra - her framing, delivered abstractly and not explained in the text.
+- **Rsi**: a superpower user, of either side. First used on the page in ch094, unexplained in the text.
+- **Astra**: a great weapon or loosed power-attack of the transcendent ones. Earth's transcendent ones used siddhis and astras against the Val, exposing the buried singularity. In ch094 she classes Rin's suit blast (ch081) as a new astra - her framing, delivered abstractly and not explained in the text.
 - **Siddhi**: a transcendent power or ability. A recent conflict fought with siddhis was, in her account, the final blow that widened the threshold.
 
 ## Voice
 - Speech characteristics: Timid and stuttering in ordinary conversation; intense and certain on spirits and medicine. The Mediatoress speaks through her in a different register entirely.
 - Appearance: Plump, curvaceous Indian woman, usually in a sari and nurse's work clothes.
 
+## Body / Measurements
+- Measurements (established 2026-11-21; full record and change log in `lore/consort_body_records.md`, current values also in 02_current_state.yaml): **Height 5′4″, 174 lb, B/W/H 43/35/44 in** — baseline at ch055 and current (ch130) **identical: no measured change**. Her plumpness is pre-existing (43, two daughters) and **not** Val-caused; ingestion began only at ch099–104, the craving is established (ch124), and at ch122 the monster assessed her body as well suited to pregnancy and directed her to maintain her present physique. Any future delta starts from this set.
+
 ## Notes
-- **Her stutter is a permanent trait and must stay on the page** (user ruling, 2026-11-18): she stutters in ordinary conversation (initial-letter repetitions, as in ch55). The trait had faded out of the ch56 draft entirely; it was restored in ch56 at the user's direction, and it is to be restored/maintained in every later chapter's review as well (ch57 onward). It eases only where her card says she is intense and certain - spirits and medicine - and the Mediatoress speaks in a different register entirely.
-- **Register refinement (user ruling, 2026-11-18, on the ch93 draft):** when Priya speaks *professionally* - as a clinician voicing concern about someone's condition or health - there is **no stutter at all** in those lines. In her other, personal lines the stutter should if anything be a touch stronger. (Applied to ch93: her diagnosis of Nia's unwellness is fully fluent; her personal questions and deflections keep or gain markers.)
+- **Her stutter is a permanent trait and must stay on the page** (user ruling, 2026-11-18): she stutters in ordinary conversation (initial-letter repetitions, as in ch055). The trait had faded out of the ch056 draft entirely; it was restored in ch056 at the user's direction, and it is to be restored/maintained in every later chapter's review as well (ch057 onward). It eases only where her card says she is intense and certain - spirits and medicine - and the Mediatoress speaks in a different register entirely.
+- **Register refinement (user ruling, 2026-11-18, on the ch093 draft):** when Priya speaks *professionally* - as a clinician voicing concern about someone's condition or health - there is **no stutter at all** in those lines. In her other, personal lines the stutter should if anything be a touch stronger. (Applied to ch093: her diagnosis of Nia's unwellness is fully fluent; her personal questions and deflections keep or gain markers.)
 - She knew Bog only as the anonymous supplier of Val medical supplies to the Florence clinic before he arrived in person.
 - How Priya and Arjun met was an [UNCONFIRMED DRAFT] in the source document; it
   was confirmed in consultation on 2026-11-19 in the form filed under

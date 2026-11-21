@@ -16,7 +16,7 @@ She knew that light. She knew those tentacles.
 
 *That monster was still alive.*
 
-Her teeth ground together. Of course it was alive. Of course it had dug its way here, of all places, now, of all times — now, when she could do precisely nothing about it. She herself remained shackled by a collar, her spirits deaf to her behind a band of Val metal. The plump Indian woman — who had wielded power enough to unmake the world, who had sunk a star into the void — was also collared, and riding Bog's shoulder half-conscious and useless. And Rin, Rin who had flown and fought in nine metres of salvaged armour, had lost her powered suit to the dark below, and was likewise forced into a collar. Three women. Three collars. A child with a dying light, a goddess in a necklace, and the Black Huntress with her bare hands.
+Her teeth ground together. Of course it was alive. Of course it had dug its way here, of all places, now, of all times — now, when she could do precisely nothing about it. She herself remained shackled by a collar, her spirits deaf to her behind a band of Val metal. The plump Indian woman — who had wielded power enough to unmake the world, who had sunk a star into the void — was also collared, and riding Bog's shoulder half-conscious and useless. And Rin, Rin who had flown and fought in thirty feet of salvaged armour, had lost her powered suit to the dark below, and was likewise forced into a collar. Three women. Three collars. A child with a dying light, a goddess in a necklace, and the Black Huntress with her bare hands.
 
 Whose fault was it? Well. The answer to that was obvious, wasn't it?
 

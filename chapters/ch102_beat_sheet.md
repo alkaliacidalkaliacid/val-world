@@ -9,11 +9,11 @@
 > texture supports the scene (card: 90s Bollywood; the user's note here:
 > she mostly watched Hindi-dubbed Kollywood). Her verses speak of herself
 > in the third person throughout — the ch101 alibi ("it's her, not me")
-> has become liturgy. Her performance register is fluent (compare ch99:
+> has become liturgy. Her performance register is fluent (compare ch099:
 > the stammer dissolves at full participation); ♥s stay in her lines.
 > No duration is stated anywhere.
 
-- POV: Bog (limited), anchored in the cavern, as ch97–101.
+- POV: Bog (limited), anchored in the cavern, as ch097–101.
 - Location / time of day: The cavern beneath the mountain ledge, immediately after ch101 — same scene, continuous (fall + 4).
 - Purpose of this chapter (what the POV character wants): Escalation by command: "Time to beg breeding." Bog wants Priya to beg to be bred — and gets a full devotional performance instead of a plea.
 - Obstacle (what blocks them): The Mediatoress keeps trying to interject rebuttals and disruptions — but Priya simply weaves each interruption into her verses as material, so the obstacle has become part of the liturgy.

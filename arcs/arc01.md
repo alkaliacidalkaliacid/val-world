@@ -1,4 +1,4 @@
-# Arc Summary: arc01 The Purchase (ch01-13)
+# Arc Summary: arc01 The Purchase (ch001-013)
 
 > How to use: One file per arc (story section). Create it from the chapter summaries when the arc ends.
 > Target size: 150-200 words. Once the arc is done, this file should be all you need to read from it again.
@@ -21,7 +21,7 @@ Bog, a Val soldier, is given three days to buy a breeding consort and join the r
 - Consort physiology begins: her body rebuilds itself on Val protein, and the first ♥ escapes her.
 
 ## Threads Resolved in This Arc
-- The Tau Ceti ultimatum: Bog's reserve application is accepted (ch04) and the posting is cancelled.
+- The Tau Ceti ultimatum: Bog's reserve application is accepted (ch004) and the posting is cancelled.
 
 ## Carried Over to the Next Arc
 - The deal unfulfilled: the collar is still on, and Nia has demanded action.

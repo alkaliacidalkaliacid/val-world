@@ -6,7 +6,7 @@
 
 *Up. Twist. Down. The twist is mine, that is the worst part, the twist is technique, I invented the twist four minutes ago and it is already — it is already the best idea I have ever — Господи♥. Lord. No. Not Lord. There is no — slrk — that sound is also me, the wet of me, the — I am so wet it has a sound, like a hand in a river, slrk, shlk, and the crown of him, that flared, that impossible crown, it hits the mouth of my womb and my whole body rings like the bells, ding, and I think in Russian because English has stopped being a language I respect: бьёт♥. It strikes. Бьёт, бьёт, бьёт♥ —*
 
-*Count. I am counting. Eleven. Twelve. The machine counts everything and now I count, I have caught counting from it like a disease, thirteen, fourteen — stop. Stop counting, Sophia. A professional does not — fifteen♥ — a professional does not keep score of her own — thwack!-thwack! —*
+*Count. I am counting. Eleven. Twelve. The machine counts everything and now I count, I have caught counting from it like a disease, thirteen, fourteen — stop. Stop counting, Sofiya. A professional does not — fifteen♥ — a professional does not keep score of her own — thwack!-thwack! —*
 
 *And the fat. Let the record show the fat. It moves half a second after I do, all of it, the breasts, the belly, the thighs, jiggle and settle, jiggle and settle, a kept woman's upholstery arriving late to every motion like a servant. This is not my body. My body was a tool. My body was a door I could close in any wall in the world. This body is a — a sofa♥. A sofa that chimes. A sofa that — shlk♥ —*
 

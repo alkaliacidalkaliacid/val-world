@@ -32,7 +32,7 @@
   green lap, legs spread wide. (The coupling itself is not written;
   the chapter ends on the straddle.)
 - Thread IDs: T05 (the taming's payoff, in act), T13 shadowed (all
-  of it metres from Nia's ignorance, in the same night she refused
+  of it yards from Nia's ignorance, in the same night she refused
   him).
 - What changed from ch124: location (house interior → the woods),
   cast size (ensemble → two), ending type (a door opening → an image
@@ -76,7 +76,7 @@
   "half a day" of abstinence is the user's own figure, stated by the
   author for this chapter.
 - **The beads:** she wears anal beads as part of her fitted state
-  (cf. Nia's bead string, ch04 intake onward).
+  (cf. Nia's bead string, ch004 intake onward).
 - **Her voice:** short, laconic lines; Russian curses in Cyrillic;
   ♥ slips into her speech even while cursing (ch119: one ♥ escaped
   mid-threat). Loyalty 61% (lore/val_devices.md): past the line

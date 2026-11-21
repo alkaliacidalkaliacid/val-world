@@ -1,0 +1,62 @@
+# Review: ch001 The Black Market
+
+- Status: **Ruled and applied** (2026-11-17) - the user ruled on all seven proposals the same day; the approved changes were applied to the manuscript, canon, and lore as recorded below. ch001 is closed.
+- Rulings (user, 2026-11-17): (1) The purchase oath is a general Val custom, separate from the Brand; buying/selling captives is permitted, but a branded person can no longer be bought or sold -> recorded in 00_canon.md (World Rules + glossary) and lore/val_devices.md (Brands + new "purchase oath" section). (2) Most women in the market row are ordinary captives; the only Bound there is Nia -> a glimpse passage was added to ch001: Bog's eye stops on her sturdy black arse, which he remembers admiring on a battlefield ("the finest arse he had ever seen"), but without resolve he walks on; she is not named, and hers is the only collar in the row. (3) Whether Bog profits from this black market stays deliberately ambiguous -> no change. (4) The Val resist many drugs but are not invulnerable -> recorded in 00_canon.md. (5) Same ruling as (2): the glimpse was added. (6) A mocking grunt term for the elites was coined at the user's request: **"the Polished"** -> recorded in the 00_canon.md glossary and lore/val_devices.md, and applied in ch001 narration (3 of the 6 "the Elites" invocations now read "the Polished"). (7) Approved -> a physical-scale beat was added (Bog ducking under cables hung for people two feet shorter).
+- Manuscript after edits: 884 words (was 694). The same edits were synced into manuscript/part01_ch001-013.md. chapters/ch001.md facts/foreshadowing updated. Banned-name scan re-run: clean.
+- Continuity check before applying (2): ch003's recognition of Nia is by name and reputation ("Wasn't she the one who had wiped out an entire tank division?"), and in ch001 Bog never learns who the collared woman is - so the glimpse creates no hard contradiction. Soft point kept on record: in ch003 Bog does not visibly connect the merchant's Bound with the woman from ch001.
+- A5 (anti-Val preacher vs. Cults) received no ruling and needs none: standing flag for later chapters only.
+- Addendum (2026-11-17, during the ch003 review): at the user's direction, ch001 was edited once more - the women's row is now described as a line of metal lattice cubes, each woman crouched with her back to the aisle (a line of backsides), poking both hands out through the lattice beside her hips to give buyers the finger, safe in the knowledge that a Val may not do them serious harm. This supersedes the original "eyes bright with fury / tracked him" staging and aligns the row with ch003's containment fields. ch001 now 961 words.
+- Correction (2026-11-17, later the same day): the user pointed out that Bog does have a home. He is right: ch004 opens on "Bog's home in the Wasteland was a squat, repurposed relay station on the edge of a dead freeway" - already his dwelling at purchase time. The glimpse passage as first applied said "the house he did not have yet", which overstated ch001's original "thinking, seriously, about a house. A real one, with walls" (a dream of a proper house, not the absence of a dwelling). Fixed in both manuscript/ch001 and part01 to "the real house with walls that he kept promising himself". The relay-station home is now recorded on characters/bog.md so the sequential pass does not repeat the mistake.
+- Prose: manuscript/ch001_the_black_market.md (694 words by wc; chapters/ch001.md records 688 - counting-method difference only)
+- Checked against: 00_canon.md, lore/factions.md, lore/val_devices.md, characters/bog.md, characters/nia_okonkwo.md, characters/_minor_cast.md, 04_style_guide.md, chapters/ch001.md
+- Sequential proofreading pass: chapter 1 of 71.
+
+## A. Contradictions with canon / settings
+No clear (hard) contradictions found. The following are possible tensions or canon gaps needing the user's ruling:
+
+- **A1 (needs ruling) - The purchase oath vs. the Brand.** Manuscript: "He'd have to swear the oath, of course, before the registrar and the glowing seal, to keep the human healthy and well." Canon (00_canon.md, lore/val_devices.md) defines the Brand as the permanent ownership mark comparable to a marriage contract, but no oath / registrar / glowing-seal procedure appears in canon or lore. Are the oath and the Brand two separate steps, or the same institution described twice? If separate, the oath procedure should be added to lore.
+- **A2 (possible tension) - The women in rows: Bound or ordinary captives? No collars mentioned.** Manuscript: "The women were kept in rows there..." and Bog "only wanted to walk through that row on days when he felt ready to wrestle a superhero and win." Canon: every captured superhero is fitted with a null-collar. The chapter never mentions collars on the women, and the "wrestle a superhero" line implies the merchandise could be dangerous - which collared Bound would not be. Needs ruling: are these ordinary human women, Bound (then a collar mention is expected), or a mix?
+- **A3 (possible tension) - "the profit was good": is Bog a seller at this market?** Manuscript: "Real Dominion supplies were stacked behind a tarp... Besides, the profit was good, the thrill was better, and nobody had ever gotten a medal for being a boring soldier." The lines read partly as Bog's own reasoning. His card establishes that he secretly diverts Val medical supplies to the Free Clinics (a charitable, risky diversion). Whether Bog also profits from black-market sales of Dominion supplies is ambiguous in the prose and not established anywhere. Clarify agency: market logic in narration, or Bog's personal sideline?
+- **A4 (canon gap, low) - Val drug/alcohol physiology.** Manuscript: at the drug tables "nothing they sold had any effect on a Val. There was illicit booze, which most certainly did." Canon is silent on Val drug immunity and alcohol sensitivity. Not a contradiction, but a world fact established only in prose; if intended as canon, record it (canon or Bog's card).
+- **A5 (low) - The anti-Val preacher vs. the Cults.** The white-robed woman singing the Val as saviors matches the Cults in lore/factions.md (and correctly has no proper name). The man shouting judgment on the invaders is her mirror image and is NOT covered by the factions file, whose cults are pro-surrender. Not a contradiction as long as he is a lone preacher, not a Cult figure; flagged so later chapters do not conflate them.
+- Naming scan: clean. No "Ash Guard", "Cinder Kings", "Gilded Hand", or "Uncrowned" in the chapter (verified by search). The Old Guards / Raiders / Traders do not appear in ch001 at all.
+- Timeline: no explicit year given; "stopped missing the homeworld somewhere around year three" is consistent with the six-year occupation (invasion 2041, present provisionally 2047). No conflict.
+- Null-collar rules: the collar itself does not appear in ch001 (see A2). Nothing breaks the collar rules as written.
+- Bog/Nia knowledge and abilities: Nia does not appear in ch001, so nothing to check on her side. Bog's strength ("heavy hand", "talent for breaking furniture", needing "someone sturdy") matches canon Val strength and his card.
+
+## B. Internal consistency and character voice
+- Bog's voice is consistent with his card throughout: easygoing surface, shrug at Elite rules, appetite first ("Ew," then he buys the skewer anyway). The deadpan is present but quiet; his signature crude/lewd register is mostly in narration, not dialogue (he speaks one word in the whole chapter: "Ew").
+- POV and tense match the style guide (third person, past tense). Scene length 694 words, inside the guide's 500-900 range.
+- The giant-cockroach skewer is planted here and pays off as a recurring Bog association later (ch071 remembers him by the smell of cockroach skewers). Good continuity.
+- Staging question (minor): the women in rows all track Bog and raise middle fingers in a ripple - no restraints, guards, or sellers are described around the row. A line of staging would ground the scene (and interacts with A2).
+
+## C. Craft, as an opening chapter
+- Premise: established efficiently - occupation, black market under Dominion rules, breeding policy, slave purchase as Bog's pending decision. The market tour carries the exposition.
+- Bog-Nia dynamic: NOT established - Nia does not appear, and Bog defers the purchase ("a decision for another day"). The chapter works as a premise/prologue chapter, but the book's central relationship starts in ch002-003, not here. User decision: acceptable as-is, or should ch001 plant Nia (e.g. a glimpse of the row's end) ?
+- Tone vs. the promise ("deranged, erotic, slapstick sci-fi fantasy"): slapstick lands (hubcap "Val armor", the middle-finger ripple, the cockroach skewer). Erotic charge is light - present as subject matter (the women, breeding talk) rather than scenes. Deranged is moderate (caged chittering things in the back). Within the range of an opening chapter, but the mix leans "wry travelogue" over the book's later intensity.
+- Exposition repetition: "the Elites" are invoked 6 times in 694 words (said / forbade / protected / cared / strict). The offstage-authority device works, but at this density it becomes the chapter's main exposition engine; varying two or three instances would sharpen it.
+- Bog's physical presence: the protagonist's body is never described - his size (Val 7'2"-8'6") and green skin are only implied ("every green head" in the preacher's line, and that line is about Val in general). A first-time reader finishes ch001 without a picture of Bog. One or two physical beats (ducking a cable bundle, a stall frame for scale) would fix it without a description dump.
+- Location: the city/market is never named. Not a contradiction, but the sequential pass should check later chapters for where Bog was posted at this point and confirm nothing conflicts.
+- Ending hook: the skewer gag is a character/tone hook, not a plot hook; the plot deliberately stalls ("another day") one paragraph earlier. The style guide asks scenes to end on a small hook - this qualifies tonally, weakly on plot. ch002's ultimatum supplies the real hook immediately after.
+
+## D. Minor items
+- Typos: none found. "multistory" is acceptable US spelling.
+- Formatting: heading format matches the other chapters; closing "---" separator present.
+- Banned-name scan: clean (see A).
+- Metadata: chapters/ch001.md says 688 words, wc says 694 (heading words / counting method). Negligible; no action proposed.
+
+## Proposed fixes (all pending the user's decision - none applied)
+1. A1: Rule on oath vs. Brand; if separate institutions, add the oath/registrar procedure to lore (and check ch003's purchase scene against the ruling when the pass reaches it).
+2. A2: Rule on who the women in rows are; if Bound, add a collar beat to the row description; if ordinary captives, adjust or keep the "wrestle a superhero" line knowingly.
+3. A3: Clarify whether Bog profits from the market or merely tolerates it (one-line wording change if needed).
+4. A4: Decide whether Val drug immunity / alcohol effect is canon; if yes, record it in 00_canon.md or characters/bog.md.
+5. C: Decide whether ch001 should plant a first glimpse of Nia, or stay a Bog-only premise chapter.
+6. C: Optionally vary two or three of the six "the Elites" invocations.
+7. C: Optionally add one physical-scale beat for Bog.
+
+## Post-review revision (2026-11-21, editing chat 12)
+- User ruling: the "house with walls" phrasing still reads oddly (it implies walls themselves are the novelty, though Bog's relay station plainly has them). Both occurrences replaced with the sense already recorded on bog.md — a cozy Earth-style house fit for settling down:
+  1. "the real house with walls that he kept promising himself" → "the snug little Earth house he kept promising himself"
+  2. "about a house. A real one, with walls." → "about a house. A proper Earth house — cozy, solid, somewhere to settle down for good."
+- Applied to manuscript/ch001, part01, and blocks/volume01; bog.md's two references updated to match. Archive original untouched (its "with walls" wording stands as the source text). No interaction with the AAVE pass: both lines are Bog-side narration, not Nia dialogue.
+- Same day, at the user's direction: "white picket fence" worked into the main house passage — "A proper Earth house, white picket fence and all — cozy, solid, somewhere to settle down for good." Synced to the same three files.

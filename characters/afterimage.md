@@ -1,7 +1,7 @@
 # Character Card: Afterimage (Sofia Petrov)
 
 > From the roster in `archive/source_the_ashen_dominion_revised.md` (section 4). Powers are described in their unrestrained state; collars suppress or limit them.
-> Note: her first name is spelled **Sofia** - a different person from Sophia Ivanova (Pale Murderess). Do not conflate them.
+> Note: her first name is spelled **Sofia** - a different person from Sofiya Ivanova (Pale Murderess). Do not conflate them.
 
 - Role: Hero, 25, Bulgarian. Former stage technician.
 - Appearance: Small-framed, pale, perpetually tired-looking.

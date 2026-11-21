@@ -10,7 +10,7 @@
 > excuses being manufactured). No duration is stated anywhere.
 >
 > Rendering note: the user specifies Priya's chant as in-her-heart
-> (心の中で). POV is Bog-limited (ch97–100), so the chant is rendered as
+> (心の中で). POV is Bog-limited (ch097–100), so the chant is rendered as
 > escaping Priya's lips in a whisper through the shared mouth — Bog hears
 > it, and so does the entity, which is what makes it an attack. Her
 > blame-shift is likewise spoken in fragments: it's the Mediatoress he's
@@ -18,7 +18,7 @@
 > the user's: self-objectification and responsibility-evasion by attack —
 > and in the end Priya climaxes anyway.
 
-- POV: Bog (limited), anchored in the cavern, as ch97–100.
+- POV: Bog (limited), anchored in the cavern, as ch097–100.
 - Location / time of day: The cavern beneath the mountain ledge, immediately after ch100 — same scene, continuous (fall + 4).
 - Purpose of this chapter (what the POV character wants): Bog keeps the method working and savours it: one hand never leaves Priya (fingers stirring inside her, thumb at her bud) while the other makes a tour of her — breasts, thighs, belly — gripping, kneading, twisting, squeezing, and praising each part's softness and plenty aloud. The belly is his favourite and gets both the longest praise and the firmest grip.
 - Obstacle (what blocks them): The Mediatoress, having climaxed once (ch100), recognises the danger of climaxing again and again: she scrunches the bridge of her nose, grits her teeth and tries to endure — to hold the body rigid against what it is doing.

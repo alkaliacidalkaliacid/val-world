@@ -1,4 +1,4 @@
-# Arc Summary: arc04 The Burrow (ch41-48)
+# Arc Summary: arc04 The Burrow (ch041-048)
 
 > How to use: One file per arc (story section). Create it from the chapter summaries when the arc ends.
 > Target size: 150-200 words. Once the arc is done, this file should be all you need to read from it again.
@@ -10,11 +10,11 @@
 - What changes from the start of the arc to the end: Pure refusal becomes involuntary participation: she hums the anthem, keeps the chant's rhythm, competes on the leaderboard, and whispers "second" in her own voice.
 
 ## Synopsis (150-200 words)
-In the burrow, the monster's taming of Sonya proceeds by log and module. She curses Bog for fifty-one hours at a mother he does not have — Val are cradle-born — and, told her curse has landed on Cradle Vault Seventeen by way of the Quiet Blight, feels something in her chest unclench. The monster maps her preferences, stores them as a training manual for Bog, and schedules them as rewards; it informs her she may qualify as his second consort, behind the primary, Nia — and her fury at ranking behind "a woman in a bunny costume" curdles into competition. A leaderboard appears: Nia leads her by nine. The monster composes her an anthem from her own profanity log — "Strive to Become Consort Number One, Sonya" — and leads chants praising Bog; she hums along and calls it tactical analysis. By the arc's end, at the prompt "Nia Okonkwo is Commander Bog's primary consort, and Sophia Ivanova is...", she has whispered "Вторая" — second — in her own voice, unlogged and softer. Her refrain still holds, but smaller: "Не сдамся." The vocabulary count climbs from 312 to 334.
+In the burrow, the monster's taming of Sonya proceeds by log and module. She curses Bog for fifty-one hours at a mother he does not have — Val are cradle-born — and, told her curse has landed on Cradle Vault Seventeen by way of the Quiet Blight, feels something in her chest unclench. The monster maps her preferences, stores them as a training manual for Bog, and schedules them as rewards; it informs her she may qualify as his second consort, behind the primary, Nia — and her fury at ranking behind "a woman in a bunny costume" curdles into competition. A leaderboard appears: Nia leads her by nine. The monster composes her an anthem from her own profanity log — "Strive to Become Consort Number One, Sonya" — and leads chants praising Bog; she hums along and calls it tactical analysis. By the arc's end, at the prompt "Nia Okonkwo is Commander Bog's primary consort, and Sofiya Ivanova is...", she has whispered "Вторая" — second — in her own voice, unlogged and softer. Her refrain still holds, but smaller: "Не сдамся." The vocabulary count climbs from 312 to 334.
 
 ## Facts Established (now canon)
 - Val are cradle-born, made in gestation chambers; Bog's cradle is Cradle Vault Seventeen. The Quiet Blight is what makes cradles fail (feeds T07).
-- The monster keeps a Russian vocabulary log of Sonya (312 at the arc's start, 334 by its end) and grades her on a leaderboard against Nia - output, service, affection; Nia leads by nine (ch46).
+- The monster keeps a Russian vocabulary log of Sonya (312 at the arc's start, 334 by its end) and grades her on a leaderboard against Nia - output, service, affection; Nia leads by nine (ch046).
 - Bog's standing orders govern the burrow in his absence; the monster adapts its own protocols (recordings without commentary; commentary reserved for reward phases).
 - The consort ranking is fixed in Sonya's world now: Nia is primary; the second-consort place is the prize dangled before her.
 

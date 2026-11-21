@@ -11,7 +11,7 @@
 
 > Continuity checked against 02_current_state.yaml, 05_timeline.md, lore,
 > the character cards and the early manuscripts before drafting:
-> - **Form:** Nia's interior monologue is an established mode — ch01–13
+> - **Form:** Nia's interior monologue is an established mode — ch001–013
 >   run her thoughts in italic blocks, with her ledger habits (numbered
 >   counts, the names litany) and mouth-sound onomatopoeia set in italics
 >   (*Shlup. Shlup-shlup.* *Glurp.* *Slrp!*). ch121 follows that voice:
@@ -35,14 +35,14 @@
 >   Chidi; the Black Huntress, a protector of humanity who should be
 >   driving out the Val. All established (her card, Background axes).
 > - **Insult register (point 5):** hers for Bog is **"pickle"** —
->   "you overgrown pickle" (ch01 onward; it is her one-way insult, never
+>   "you overgrown pickle" (ch001 onward; it is her one-way insult, never
 >   his for her). Appearance material from the manuscripts: green, swamp
 >   smell, the tusks, the wide tusked mouth, the blunt brow, the big
 >   stupid patient eyes. Dynamic = she cycles them at speed while her
 >   mouth is otherwise occupied.
 > - **The condemnation-that-isn't (points 6–8):** shape, heat, taste,
 >   texture and smell of him, and of his semen, described lustfully in
->   the grammar of complaint — the ch92/ch95 sensory bank (salt, musk,
+>   the grammar of complaint — the ch092/ch095 sensory bank (salt, musk,
 >   the green animal underneath; thicker than her wrist; the ridging the
 >   tongue reads; the fat vein) turned to her first-person interior.
 >   Her true feeling, admitted only inside: she wants her stomach full

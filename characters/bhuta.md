@@ -8,15 +8,15 @@
 ## Core (does not change)
 - Role: Antagonist force. Spirits of the unburied war dead (00_canon.md) —
   only the first leak from the widening threshold at the buried singularity.
-- Nature: They possess animals and people (ch57, ch81) — a black bear
+- Nature: They possess animals and people (ch057, ch081) — a black bear
   possessed by one killed Dr. Hermes; the purple aura possessed Rin's suit
-  itself (ch85). Manifestation is a purple/violet light: it moves a host
+  itself (ch085). Manifestation is a purple/violet light: it moves a host
   puppet-like, survives the host's death, rises off the body in thin
-  threads, and turns toward a new vessel (ch71–74). It also works through
+  threads, and turns toward a new vessel (ch071–074). It also works through
   animals and through voices in the trees; Darkwing had warned Rin of both
-  in advance (ch71). At the source, the singularity, the Mediatoress buried
-  the purple crystal into the void in ch96; she states that after the
-  burying, a "resolution" is still required (ch94) — T03 in the state file.
+  in advance (ch071). At the source, the singularity, the Mediatoress buried
+  the purple crystal into the void in ch096; she states that after the
+  burying, a "resolution" is still required (ch094) — T03 in the state file.
 - Desire (what they want across the whole story): [NOT ESTABLISHED]
 - Lack / wound: [NOT ESTABLISHED — whether they lack or want anything is
   itself undecided]
@@ -34,7 +34,7 @@
 
 ## Voice
 - Speech characteristics: [NOT ESTABLISHED — voices in the trees are
-  reported (ch71); whether the bhuta speak, and in whose voice, is
+  reported (ch071); whether the bhuta speak, and in whose voice, is
   undecided]
 - Words they use often / never use: [NOT ESTABLISHED]
 

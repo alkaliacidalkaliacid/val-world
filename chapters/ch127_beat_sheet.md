@@ -8,7 +8,7 @@
 > and an open brief for Sonya's reactions ("up to your creation"),
 > with two style directives: Russian phrases, and plenty of ♥s.
 > Continuity checked against Sonya's card, ch119/ch125/ch126, the
-> loyalty record and Rin's naming-rights deal (ch88) before
+> loyalty record and Rin's naming-rights deal (ch088) before
 > drafting.
 
 - POV: Close third person, riding with the scene; Sonya's reactions
@@ -59,7 +59,7 @@
    (End.)
 
 ## Continuity notes
-- **Rin's naming rights:** in the ch88 negotiation Rin took the
+- **Rin's naming rights:** in the ch088 negotiation Rin took the
   right to name Bog's first child. Bog's question to Sonya ("a name
   for the first one") is rendered as Bog's oblivious small talk
   about *her* first child; Sonya does not know of Rin's deal
@@ -68,7 +68,7 @@
 - **Children, for Sonya:** she is a lesbian (card) and an assassin;
   motherhood has never been in her life's shape. Bog's breeding
   talk is his established register (ch103's declarations to Priya;
-  his plan confided to Rin, ch89). Her reaction plays shock and
+  his plan confided to Rin, ch089). Her reaction plays shock and
   refusal in words — and the body's treachery underneath.
 - **"The other consorts":** Sonya knows of Nia (primary) from the
   Burrow scoreboard/anthem days; of Rin and Priya as Bog's she has

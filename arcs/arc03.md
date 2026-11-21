@@ -1,4 +1,4 @@
-# Arc Summary: arc03 The Orbital Depot (ch22-40)
+# Arc Summary: arc03 The Orbital Depot (ch022-040)
 
 > How to use: One file per arc (story section). Create it from the chapter summaries when the arc ends.
 > Target size: 150-200 words. Once the arc is done, this file should be all you need to read from it again.
@@ -16,7 +16,7 @@ The raid goes wrong at once: Sonya's portal tunnel delivers them into the depot 
 - Sonya's portals come in entry/exit pairs and can snap shut mid-transit, severing what passes. The counts (four quiet, six all-out) are Nia's estimates, not a canon cap.
 - The monster is a sealed Dominion weapon: coreless, regenerating, growing by absorbing matter, and blind-seeking the strongest presence. Collars carry a General Control System that obeys the Val who fits them; Bog is its Commander.
 - Sonya survived inside the monster in an absorbed escape pod, after detonating a depot charge herself; captured, she is collared (powers out) and fitted with rings, bells and a bead string. Her Russian profanity log opens at 312.
-- Bog would not order the kill: Sonya's "neutralization" becomes the taming regimen of ch40's standing orders instead.
+- Bog would not order the kill: Sonya's "neutralization" becomes the taming regimen of ch040's standing orders instead.
 - The monster built a duplicate of Nia from Bog's description (imperfect work). Bog's instruction: "Don't tell her about this part" (feeds T13).
 
 ## Threads Resolved in This Arc

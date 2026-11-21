@@ -8,7 +8,7 @@ Earth folded around them. The breach in the cavern wall widened into a throat, a
 
 Rin, halfway in, stopped dead. "Wait — my suit! It's still down there, you can't just— please, it's *mine*, I built it, I can't leave it—"
 
-A tentacle uncoiled past her into the dark. It returned cradling nine metres of dead armour as gently as a nurse with a baby, and laid the wreck in a recess of its own, where smaller tentacles were already tucking it in.
+A tentacle uncoiled past her into the dark. It returned cradling thirty feet of dead armour as gently as a nurse with a baby, and laid the wreck in a recess of its own, where smaller tentacles were already tucking it in.
 
 Rin made a sound no one had ever heard her make, and threw her arms around the nearest tentacle.
 

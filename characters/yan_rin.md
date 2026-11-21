@@ -117,6 +117,9 @@
   friend, the only voice from before the fall that still answers her. She
   does not show it to Darkwing, or to anyone.
 
+## Body / Measurements
+- Measurements (established 2026-11-21; full record and change log in `lore/consort_body_records.md`, current values also in 02_current_state.yaml): **Height 5′5″**. Baseline at collaring (ch086): 115 lb, B/W/H 32/24/33 in — light, lean, slender and angular (the ch122 contrast with Priya). Current (ch130): **117 lb, 33/24/34 in** (+2 lb and +1/0/+1 in [est.] under the monster's "eat more" direction; at ch122 it still assessed her as a little too slender for breeding). Her first logged consort change is **not** mensural: her five senses sharpened a notch past human at ch105, unnoticed by her.
+
 ## Voice
 - Speech characteristics: Cheerful, loud, giggly, fearless; quick to laugh mid-fight. Does a gruff impression of Darkwing's voice to quote his grumbles.
 - Catchphrase: "It's clobberin' time!" - lifted from a favorite comic book; its main effect is to make Darkwing grimace. Her hero name "Orange Clobberess" is used by nobody (per Darkwing, "Clobberess" isn't even grammatically correct); she is simply "Rin."
@@ -126,7 +129,7 @@
 - **Rin's own assembly (user ruling, 2026-11-19):** she built the suit up
   herself from salvage, beginning as a young teenager in Darkwing's orbit;
   it was her ticket to operating as his sidekick in earnest at about sixteen.
-- Roughly nine meters of salvaged, mismatched plating; a school-bus door welded over one shoulder; a cartoon cat sticker on the chest; cockpit behind glass in the middle of the chest.
+- Roughly thirty feet of salvaged, mismatched plating; a school-bus door welded over one shoulder; a cartoon cat sticker on the chest; cockpit behind glass in the middle of the chest.
 - Immense strength: throws wrecked vehicles; can slam a Val soldier into the ground until he stops moving.
 - It is NOT orange. She wants to paint it orange but has no paint; Darkwing says it would make her stand out like an idiot in the middle of the woods. She keeps her own sketch of the finished, cool-looking orange suit.
 

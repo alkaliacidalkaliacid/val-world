@@ -14,7 +14,7 @@ She struggled against his hold. Not to get away, exactly — she got one arm fre
 
 He led her down off the monster's back and across the grass to the shade of a tree that stood near the great resting body, far enough from the other two. The monster, courteous and tactless as a loudspeaker in a chapel, observed their departure.
 
-"Caution: The sonic repellent field for the consorts is set to a 30-meter radius, Commander."
+"Caution: The sonic repellent field for the consorts is set to a hundred-foot radius, Commander."
 
 "Thank you," Bog called back. "Very helpful."
 

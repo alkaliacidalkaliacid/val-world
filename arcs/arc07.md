@@ -1,4 +1,4 @@
-# Arc Summary: arc07 The Mountain (ch71-90)
+# Arc Summary: arc07 The Mountain (ch071-090)
 
 > How to use: One file per arc (story section). Create it from the chapter summaries when the arc ends.
 > Target size: 150-200 words. Once the arc is done, this file should be all you need to read from it again.

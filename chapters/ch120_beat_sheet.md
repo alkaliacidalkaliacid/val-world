@@ -18,7 +18,7 @@
 > her as she works. NOTE on the tail: 02_current_state.yaml's physical_state
 > for Nia says "the faux tail was lost in Mississippi," but no manuscript
 > passage supports the loss (the bunny costume and the bead string are in
-> ch78's text; the tail's loss is nowhere written). The user's addendum
+> ch078's text; the tail's loss is nowhere written). The user's addendum
 > treats the tail as present and tattered; taken as the ruling — the state
 > YAML is to be corrected at diff extraction.
 
@@ -32,7 +32,7 @@
 >   (Bog's evasive "That's good. That's real good" performance, which
 >   deflected her in the moment but settled nothing). She accuses from
 >   inference, and Bog's retorts do not deny either charge.
-> - Ages check: Rin is 20 (confirmed ch83/ch86 rulings), Nia is 39 (ch73
+> - Ages check: Rin is 20 (confirmed ch083/ch086 rulings), Nia is 39 (ch073
 >   ruling). Bog's retort — "And you're only thirty-nine, aren't you?" —
 >   implies he is significantly older; Bog's age is nowhere fixed in canon,
 >   so prose states no number for him.
@@ -42,16 +42,16 @@
 >   woman and goddess at once — offered as an explanation of why Priya had
 >   to be made to do as she was told. It is calibrated to provoke, and does.
 > - The feeding ritual is the household liturgy (00_canon.md): Nia performs
->   it on Bog — she "does it all the time" (Bog's own pitch, ch92) — here
+>   it on Bog — she "does it all the time" (Bog's own pitch, ch092) — here
 >   with deliberate, lingering intensity, affection and frustration in equal
 >   measure, while receiving the head-strokes and pats she has been craving
 >   (her consort craving after the long separation is established, ch111
 >   onward; in ch117 she watched Rin and could only glare).
 > - The monster's line — "Caution: The sonic repellent field for the
->   consorts is set to a 30-meter radius, Commander." — is the **monster**
+>   consorts is set to a hundred-foot radius, Commander." — is the **monster**
 >   speaking (only it addresses Bog as Commander): as Bog leads Nia off for
 >   privacy, it tactlessly announces the boundary of the insect-free field
->   from ch119 (the sub-threshold humming) to everyone in earshot. The 30 m
+>   from ch119 (the sub-threshold humming) to everyone in earshot. The hundred-foot
 >   radius is a new specific from the user's plot; recorded at diff
 >   extraction. The tree and fallen log sit inside the field.
 > - Setting: on the surface, the monster resting in sunlight (fall + 5,
@@ -114,7 +114,7 @@
    need to talk." "Alright, alright" — placating, unbothered — he leads
    her toward the shade of a tree near the monster, and the monster,
    tactless as a hotel clerk with a loudspeaker, announces: "Caution:
-   The sonic repellent field for the consorts is set to a 30-meter
+   The sonic repellent field for the consorts is set to a hundred-foot
    radius, Commander."
 2. The tribunal at the log. Nia sits Bog down on a fallen log and,
    still fuming, begins the feeding ritual — deliberate, lingering,

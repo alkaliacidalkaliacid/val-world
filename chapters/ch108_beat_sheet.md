@@ -9,4 +9,4 @@
 5. Nia, hair on the back of her neck standing on end, jabs a black-nailed thumb into Bog's green chest, hissing "You..." — the jingling of her bells completely undermines the menace. Flushed bright red, eyes squeezed shut, brows twitching, she spins around: "Let's go — hurry up." As if she had led this group all along. Everything else gets settled on the surface.
 6. Closing narration: no one dared to challenge the battle-hardened Black Huntress.
 
-Checks: Nia's raw strength is established (ch106 stalagmite; ch07 pattern). Both collars are established (Rin ch86, Priya ch98) — this is the chapter Nia first sees them. No reason given in prose for Bog's refusal (per the plot's meta instruction). No prose duration stated — "how much longer the light will last" is Bog's vagueness, not a figure.
+Checks: Nia's raw strength is established (ch106 stalagmite; ch007 pattern). Both collars are established (Rin ch086, Priya ch098) — this is the chapter Nia first sees them. No reason given in prose for Bog's refusal (per the plot's meta instruction). No prose duration stated — "how much longer the light will last" is Bog's vagueness, not a figure.
